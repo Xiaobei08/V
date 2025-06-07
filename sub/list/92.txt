@@ -1,0 +1,104 @@
+  - {name: 电报群：https://t.me/vvkj11, server: 183.236.51.38, port: 49302, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇸🇬 每天更新，请加电报群防止失联, server: 120.232.153.40, port: 40550, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 日期：06-07, server: 120.198.71.216, port: 46159, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 免费VPN：https://tt.vg/gwaAy, server: c5d812aa-sx4v40-sx7hbg-1mmbp.cu.plebai.net, port: 15229, type: trojan, password: 607d365e-7ea1-11ee-95e9-f23c913c8d2b, sni: c5d812aa-sx4v40-sx7hbg-1mmbp.cu.plebai.net, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_1, server: 183.236.51.38, port: 30052, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_2, server: 120.198.44.126, port: 47883, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_3, server: 183.236.51.38, port: 59652, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_4, server: 120.198.71.219, port: 51095, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_5, server: 120.232.153.123, port: 52352, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_6, server: 183.236.51.38, port: 49191, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_7, server: 3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com, port: 27231, type: trojan, password: 905fcd78-866c-81e1-3cb8-1beb59d661ab, sni: 3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_8, server: 183.236.51.38, port: 59652, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_9, server: 183.236.51.38, port: 30052, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_10, server: 183.236.51.38, port: 49554, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_11, server: 6a98e275-sx8kg0-tcum62-se45.cm5.cnkuaishou.com, port: 27231, type: trojan, password: d076280a-0d5f-11f0-8a7b-f23c913c8d2b, sni: 6a98e275-sx8kg0-tcum62-se45.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_12, server: 183.236.51.38, port: 49554, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_13, server: 4aaff985-sxfz40-t1jamc-1fvdh.cm5.cnkuaishou.com, port: 27231, type: trojan, password: 9e1ddc04-073b-11ed-bd7c-f23c913c8d2b, sni: 4aaff985-sxfz40-t1jamc-1fvdh.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_14, server: 6a98e275-sx8kg0-tcum62-se45.cm5.cnkuaishou.com, port: 27231, type: trojan, password: d076280a-0d5f-11f0-8a7b-f23c913c8d2b, sni: 6a98e275-sx8kg0-tcum62-se45.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_15, server: 3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com, port: 27231, type: trojan, password: 905fcd78-866c-81e1-3cb8-1beb59d661ab, sni: 3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_16, server: 183.238.90.8, port: 39076, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_17, server: 120.232.153.40, port: 31209, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_18, server: 183.238.90.8, port: 39076, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_19, server: 120.198.44.126, port: 47883, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_20, server: 204bdce4-sxaf40-t5bgb3-l4nv.cm5.cnkuaishou.com, port: 27231, type: trojan, password: 1469e09e-027c-11ec-a0fc-f23c913c8d2b, sni: 204bdce4-sxaf40-t5bgb3-l4nv.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_21, server: 183.236.51.38, port: 49191, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_22, server: 183.238.90.8, port: 46920, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_23, server: 120.232.153.63, port: 37805, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_24, server: 183.237.84.53, port: 55002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_25, server: 4aaff985-sxfz40-t1jamc-1fvdh.cm5.cnkuaishou.com, port: 27231, type: trojan, password: 9e1ddc04-073b-11ed-bd7c-f23c913c8d2b, sni: 4aaff985-sxfz40-t1jamc-1fvdh.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_26, server: 204bdce4-sxaf40-t5bgb3-l4nv.cm5.cnkuaishou.com, port: 27231, type: trojan, password: 1469e09e-027c-11ec-a0fc-f23c913c8d2b, sni: 204bdce4-sxaf40-t5bgb3-l4nv.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_27, server: 7fd1be71-sxc9s0-tcselz-oua4.cm5.cnkuaishou.com, port: 27231, type: trojan, password: 659990ba-650f-11ea-a7af-f23c9164ca5d, sni: 7fd1be71-sxc9s0-tcselz-oua4.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_28, server: 120.232.153.40, port: 31209, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_29, server: 7fd1be71-sxc9s0-tcselz-oua4.cm5.cnkuaishou.com, port: 27231, type: trojan, password: 659990ba-650f-11ea-a7af-f23c9164ca5d, sni: 7fd1be71-sxc9s0-tcselz-oua4.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_30, server: 120.198.71.216, port: 46159, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_31, server: 120.198.71.219, port: 51095, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_32, server: 183.238.90.8, port: 46920, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_33, server: 183.236.51.38, port: 49302, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_34, server: 120.232.153.40, port: 31209, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 _美国_1, server: 15002.kuaiyin02.top, port: 15002, type: vmess, uuid: 9f513161-576b-3abc-9c98-06e52c3a24c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 _美国_2, server: 15002.kuaiyin02.top, port: 15002, type: vmess, uuid: 9f513161-576b-3abc-9c98-06e52c3a24c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 _美国_3, server: 45.207.201.15, port: 34625, type: vmess, uuid: 35510df4-9899-4427-e826-d005f0aabc6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_35, server: e0fc3fd6-sxc9s0-t5cryd-4w8.cu.plebai.net, port: 15229, type: trojan, password: ba7a37e3-033a-e1ab-06f6-9027aa4630f5, sni: e0fc3fd6-sxc9s0-t5cryd-4w8.cu.plebai.net, skip-cert-verify: false}
+  - {name: 🇺🇸 _美国_4, server: 172.67.204.120, port: 443, type: trojan, password: 4a3ee276-f50f-46f6-ba4d-13571732ab70, sni: ddcDe.890603.XYz, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_36, server: 68e85139-sxc9s0-t1jkae-18y1l.cu.plebai.net, port: 15229, type: trojan, password: 96c5f18c-9390-11eb-86a4-f23c913c8d2b, sni: 68e85139-sxc9s0-t1jkae-18y1l.cu.plebai.net, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_37, server: wb.kaiqsz.com, port: 12221, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_38, server: wb.kaiqsz.com, port: 12221, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_39, server: wb.kaiqsz.com, port: 12221, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_40, server: wb.kaiqsz.com, port: 12221, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_41, server: wb.kaiqsz.com, port: 12221, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_42, server: wb.kaiqsz.com, port: 12221, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_43, server: js-12f83a8c.kaiqsz.com, port: 12221, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_44, server: gz-43e866.kaiqsz.com, port: 12221, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_45, server: wb.kaiqsz.com, port: 42765, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz1.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_46, server: js-12f83a8c.kaiqsz.com, port: 42765, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz1.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_47, server: gz-43e866.kaiqsz.com, port: 42765, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz1.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_48, server: wb.kaiqsz.com, port: 48291, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz1.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_49, server: js-12f83a8c.kaiqsz.com, port: 18489, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz1.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_50, server: gz-43e866.kaiqsz.com, port: 18489, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz1.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_51, server: wb.kaiqsz.com, port: 49921, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz1.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_52, server: wb.kaiqsz.com, port: 49921, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz1.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_53, server: wb.kaiqsz.com, port: 28713, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz1.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_54, server: gz-43e866.kaiqsz.com, port: 28713, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz1.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_55, server: js-12f83a8c.kaiqsz.com, port: 28713, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz1.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_56, server: wb.kaiqsz.com, port: 21489, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_57, server: gz-43e866.kaiqsz.com, port: 21489, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_58, server: js-12f83a8c.kaiqsz.com, port: 21489, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_59, server: nbae7a7.kaiqsz.com, port: 53547, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_60, server: hxipv6.hongxingdl.vip, port: 12221, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_61, server: hxipv6.hongxingdl.vip, port: 42765, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz1.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_62, server: hxipv6.hongxingdl.vip, port: 48291, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz1.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_63, server: hxipv6.hongxingdl.vip, port: 28713, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz1.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_64, server: hxipv6.hongxingdl.vip, port: 21489, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_65, server: lm.kaiqsz.com, port: 51075, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz10.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_66, server: lm.kaiqsz.com, port: 21463, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz12.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_67, server: lm.kaiqsz.com, port: 14651, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz12.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_68, server: lm.kaiqsz.com, port: 59358, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz11.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_69, server: lm.kaiqsz.com, port: 39851, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz13.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_70, server: lm.kaiqsz.com, port: 33243, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz13.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_71, server: lm.kaiqsz.com, port: 54031, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz10.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_72, server: lm.kaiqsz.com, port: 28499, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz10.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_73, server: lm.kaiqsz.com, port: 34249, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz12.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_74, server: lm.kaiqsz.com, port: 50140, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz11.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_75, server: lm.kaiqsz.com, port: 59225, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz12.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_76, server: lm.kaiqsz.com, port: 14571, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz13.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_77, server: lm.kaiqsz.com, port: 50121, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz13.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_78, server: lm.kaiqsz.com, port: 50757, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz14.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_79, server: lm.kaiqsz.com, port: 47621, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz10.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_80, server: lm.kaiqsz.com, port: 53759, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz11.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_81, server: lm.kaiqsz.com, port: 59137, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz11.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_82, server: lm.kaiqsz.com, port: 55799, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz10.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_83, server: lm.kaiqsz.com, port: 23846, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz14.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_84, server: lm.kaiqsz.com, port: 59009, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz14.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_85, server: lm.kaiqsz.com, port: 43855, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz14.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_86, server: lm.kaiqsz.com, port: 30383, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz14.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_87, server: lm.kaiqsz.com, port: 16783, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz15.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_88, server: lm.kaiqsz.com, port: 58947, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz15.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_89, server: lm.kaiqsz.com, port: 34183, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz16.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_90, server: lm.kaiqsz.com, port: 40391, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz16.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_91, server: lm.kaiqsz.com, port: 49569, type: trojan, password: e5f7bfba-dc46-471f-b7ac-535479bf3ab0, sni: mmbiz16.redapricotcloud.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_92, server: b8605f97-swq1s0-swwcfg-1eijl.hgc1.tcpbbr.net, port: 8080, type: vmess, uuid: c2b58ae0-d21c-11ef-b414-f23c91cfbbc9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: b8605f97-swq1s0-swwcfg-1eijl.hgc1.tcpbbr.net}}}
+  - {name: 🇨🇳 _中国_93, server: 456c0ed1-swq1s0-t3imuc-2nr6.hgc1.tcpbbr.net, port: 8080, type: vmess, uuid: dab27b58-5210-11ea-a15d-f23c913c8d2b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 456c0ed1-swq1s0-t3imuc-2nr6.hgc1.tcpbbr.net}}}
+  - {name: 🇸🇪 _瑞典, server: 185.146.173.25, port: 80, type: vmess, uuid: 46181c32-8c82-413a-b836-8375e5e513eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2560"}}
+  - {name: 🇨🇳 _中国_94, server: v7.heduian.link, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: v7.heduian.link}}}
+  - {name: 🇨🇳 _中国_95, server: v7.heduian.link, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: v7.heduian.link}}}
