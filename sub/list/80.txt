@@ -1,12 +1,9 @@
-  - {name: 🇭🇰 HK|@wxgqlfx|0015, server: 43.226.17.11, port: 59333, type: ss, cipher: chacha20-ietf-poly1305, password: 60a930c17ff0}
-  - {name: 🇭🇰 HK|@wxgqlfx|0016, server: 121.127.231.217, port: 11400, type: ss, cipher: chacha20-ietf-poly1305, password: 1450cecfb93f}
-  - {name: 🇭🇰 HK|@wxgqlfx|0017, server: 121.127.231.217, port: 11400, type: ss, cipher: chacha20-ietf-poly1305, password: 1450cecfb93f, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: kh36v1.pmxiaonan.xyz, path: /simieepvt, tls: true, mux: true, skip-cert-verify: false}}
-  - {name: 🇨🇳 TW|@wxgqlfx|0018, server: hinetiw0k.yooddns.stream, port: 26900, type: ss, cipher: chacha20-ietf-poly1305, password: d484b050-d99f-4c39-bebc-08280e4d34ab}
-  - {name: VN|@wxgqlfx|0019, server: 103.186.154.25, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV}
-  - {name: 🇰🇷 KR|@wxgqlfx|0020, server: p080.panda001.net, port: 36379, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@}
-  - {name: VN|@wxgqlfx|0021, server: 103.186.154.25, port: 38388, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW}
-  - {name: 🇨🇳 CN|@wxgqlfx|0022, server: cn01.efan8867801.xyz, port: 8766, type: ss, cipher: rc4-md5, password: efanccyun, plugin: obfs, plugin-opts: {mode: http, host: 202505282364048-Tbm8fXQu06.download.microsoft.com}}
-  - {name: 🇯🇵 JP|@wxgqlfx|0023, server: usla.mjt000.com, port: 443, type: trojan, password: e4af2638-bb12-4e4a-84f1-a032e23ca63f, sni: usla.mjt000.com, skip-cert-verify: false}
+  - {name: 🇭🇰 HK|@wxgqlfx|0021, server: 43.226.17.11, port: 59333, type: ss, cipher: chacha20-ietf-poly1305, password: 60a930c17ff0}
+  - {name: 🇰🇷 KR|@wxgqlfx|0022, server: p080.panda001.net, port: 36379, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@}
+  - {name: 🇫🇷 FR|@wxgqlfx|0023, server: 193.243.147.128, port: 40368, type: ss, cipher: aes-256-gcm, password: 7BcLdsO1WweoGD0X}
+  - {name: VN|@wxgqlfx|0024, server: 103.186.154.25, port: 38388, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW}
+  - {name: 🇨🇳 CN|@wxgqlfx|0025, server: 3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com, port: 27231, type: trojan, password: 905fcd78-866c-81e1-3cb8-1beb59d661ab, sni: 3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 🇭🇰 HK|@wxgqlfx|0026, server: usla.mjt000.com, port: 443, type: trojan, password: e4af2638-bb12-4e4a-84f1-a032e23ca63f, sni: usla.mjt000.com, skip-cert-verify: false}
   - {name: 🇨🇳 |CN|@wxgqlfx|7, server: 60a68e6f-sxe4g0-syydd8-k02s.cu.plebai.net, port: 15229, type: trojan, password: c915da48-3bc5-11ec-bd7c-f23c913c8d2b, sni: 60a68e6f-sxe4g0-syydd8-k02s.cu.plebai.net, skip-cert-verify: false}
   - {name: "|SE|@wxgqlfx|29", server: 185.146.173.25, port: 80, type: vmess, uuid: 46181c32-8c82-413a-b836-8375e5e513eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /d3d3LmlyYW5ob3N0LmNvbQ==, headers: {Host: google.whatsapp.snapp.torob.basalam.sarzamiiinahang.ir.}}}
   - {name: 🇰🇷 |KR|@wxgqlfx|52, server: 221.159.140.95, port: 10912, type: trojan, password: Aimer, sni: epma.ambercc.filegear-sg.me, skip-cert-verify: false}
