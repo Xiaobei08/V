@@ -1,10 +1,9 @@
-  - {name: 🇭🇰 HK|@wxgqlfx|0017, server: 43.226.17.11, port: 59333, type: ss, cipher: chacha20-ietf-poly1305, password: 60a930c17ff0}
-  - {name: 🇭🇰 HK|@wxgqlfx|0018, server: 43.226.17.11, port: 59333, type: ss, cipher: chacha20-ietf-poly1305, password: 60a930c17ff0, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: kr6v1.xpmc.cc, path: /matwnpkhug, tls: true, mux: false, skip-cert-verify: false}}
-  - {name: 🇭🇰 HK|@wxgqlfx|0019, server: 121.127.231.217, port: 11400, type: ss, cipher: chacha20-ietf-poly1305, password: 1450cecfb93f, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: kh36v1.pmxiaonan.xyz, path: /simieepvt, tls: true, mux: true, skip-cert-verify: false}}
-  - {name: SK|@wxgqlfx|0020, server: 156.146.40.194, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇰🇷 KR|@wxgqlfx|0021, server: 125.141.31.72, port: 15098, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@}
-  - {name: 🇰🇷 KR|@wxgqlfx|0022, server: p080.panda001.net, port: 36379, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@}
-  - {name: 🇰🇷 KR|@wxgqlfx|0023, server: p080.panda001.net, port: 36379, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA}
+  - {name: 🇳🇱 NL|@wxgqlfx|0019, server: 185.242.86.156, port: 54170, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV}
+  - {name: 🇨🇳 TW|@wxgqlfx|0020, server: hinetiw0k.yooddns.stream, port: 26900, type: ss, cipher: chacha20-ietf-poly1305, password: d484b050-d99f-4c39-bebc-08280e4d34ab}
+  - {name: 🇰🇷 KR|@wxgqlfx|0021, server: p080.panda001.net, port: 36379, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@}
+  - {name: 🇰🇷 KR|@wxgqlfx|0022, server: 43.203.225.190, port: 443, type: ss, cipher: aes-256-cfb, password: yijian0503}
+  - {name: 🇰🇷 KR|@wxgqlfx|0023, server: 43.203.225.190, port: 443, type: ss, cipher: ss, password: //YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw}
+  - {name: 🇯🇵 JP|@wxgqlfx|0024, server: hinet.mjt000.com, port: 443, type: trojan, password: 92435aa8-f3b6-466a-ad58-c55cbb6d2acf, sni: hinet.mjt000.com, skip-cert-verify: false}
   - {name: 🇫🇷 |FR|@wxgqlfx|3, server: 146.19.106.154, port: 443, type: trojan, password: 3482c71a-d01c-4ae5-b454-fa8cb3785f66, sni: both-cramp-banjo.stark-industries.solutions, skip-cert-verify: false}
   - {name: 🇰🇷 |KR|@wxgqlfx|63, server: 221.159.140.95, port: 10912, type: trojan, password: Aimer, sni: epma.ambercc.filegear-sg.me, skip-cert-verify: false}
   - {name: 🇰🇷 |KR|@wxgqlfx|72, server: 121.150.217.106, port: 12541, type: trojan, password: Aimer, sni: epma.ambercc.filegear-sg.me, skip-cert-verify: false}
