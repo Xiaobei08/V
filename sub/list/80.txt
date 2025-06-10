@@ -1,21 +1,33 @@
-  - {name: 🇭🇰 HK|@wxgqlfx|0022, server: 43.226.17.11, port: 41952, type: ss, cipher: chacha20-ietf-poly1305, password: 60a930c17ff0, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: kr6v1.xpmc.cc, path: /matwnpkhug, tls: true, mux: false, skip-cert-verify: false}}
-  - {name: 🇳🇱 NL|@wxgqlfx|0023, server: 185.242.86.156, port: 54170, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV}
-  - {name: SK|@wxgqlfx|0024, server: 156.146.40.194, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇨🇳 |CN|@wxgqlfx|1, server: 495301f6-sxfz40-ta5nd4-e06r.cu.plebai.net, port: 15229, type: trojan, password: 861726bb-c61a-b0e0-99fa-5ddfdcf21902, sni: 495301f6-sxfz40-ta5nd4-e06r.cu.plebai.net, skip-cert-verify: false}
-  - {name: 🇺🇸 |US|@wxgqlfx|2, server: cdn2.bpcdn.cc, port: 2086, type: vmess, uuid: 25b28185-e90a-4112-8c35-e80ff68b480e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cae3mg9qsg55eo5lhq.lovebaipiao.com}}}
-  - {name: 🇨🇳 |CN|@wxgqlfx|3, server: 6310eef4-sxjog0-tb1n23-1qm4e.cu.plebai.net, port: 15229, type: trojan, password: c66e6c30-2cc5-11ef-8945-f23c9164ca5d, sni: 6310eef4-sxjog0-tb1n23-1qm4e.cu.plebai.net, skip-cert-verify: false}
-  - {name: 🇰🇷 |KR|@wxgqlfx|21, server: 211.217.31.160, port: 12582, type: trojan, password: Aimer, sni: epma.ambercc.filegear-sg.me, skip-cert-verify: false}
-  - {name: 🇰🇷 |KR|@wxgqlfx|22, server: 112.167.124.139, port: 50000, type: trojan, password: Aimer, sni: epma.ambercc.filegear-sg.me, skip-cert-verify: false}
-  - {name: 🇰🇷 |KR|@wxgqlfx|67, server: 121.150.217.106, port: 12541, type: trojan, password: Aimer, sni: epma.ambercc.filegear-sg.me, skip-cert-verify: false}
-  - {name: 🇺🇸 |US|@wxgqlfx|87, server: 141.193.213.73, port: 2086, type: vmess, uuid: 25b28185-e90a-4112-8c35-e80ff68b480e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: vmjpxbhwepm9t5bp.jjjiedian6j4tblb.com}}}
-  - {name: 🇨🇳 |CN|@wxgqlfx|93, server: 99dfcb82-sxhts0-t5qufl-8n27.cu.plebai.net, port: 15229, type: trojan, password: 5dc6fa05-a601-aba6-7761-ecde22d2b0fc, sni: 99dfcb82-sxhts0-t5qufl-8n27.cu.plebai.net, skip-cert-verify: false}
-  - {name: 🇨🇳 |CN|@wxgqlfx|110, server: 422d0675-sxnds0-sxw44d-1re2s.cu.plebai.net, port: 15229, type: trojan, password: a6a3c7fc-0de8-11ef-ba67-f23c91cfbbc9, sni: 422d0675-sxnds0-sxw44d-1re2s.cu.plebai.net, skip-cert-verify: false}
-  - {name: 🇨🇳 |CN|@wxgqlfx|114, server: 125.94.40.221, port: 39001, type: trojan, password: 85f133142f04dbf6547da33895cfabb3, sni: www.yrtok.com, skip-cert-verify: false}
-  - {name: 🇨🇳 |CN|@wxgqlfx|134, server: sdjhv3hjubds733.nertron.xyz, port: 56113, type: ss, cipher: aes-256-gcm, password: cf44a1b7-6806-4412-aac9-5ceb838fb705}
-  - {name: 🇨🇳 |CN|@wxgqlfx|141, server: sdjhv3hjubds733.nertron.xyz, port: 23674, type: ss, cipher: aes-128-gcm, password: cf44a1b7-6806-4412-aac9-5ceb838fb705}
-  - {name: 🇨🇳 |CN|@wxgqlfx|144, server: 120.233.44.201, port: 21179, type: trojan, password: 2b1ed981-6547-4094-998b-06a3323d6f6c, sni: k30.tudou211.com, skip-cert-verify: false}
-  - {name: 🇬🇧 |GB|@wxgqlfx|158, server: 85.210.120.237, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ}
-  - {name: 🇬🇧 |GB|@wxgqlfx|159, server: admin.c3.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ}
+  - {name: 🇨🇳 |CN|@wxgqlfx|56, server: 120.233.44.201, port: 21179, type: trojan, password: 2b1ed981-6547-4094-998b-06a3323d6f6c, sni: k30.tudou211.com, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|87, server: 120.232.153.40, port: 31209, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|95, server: 183.236.51.38, port: 47921, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|96, server: f9b0a348-sxlj40-t26kw1-1qaek.cm5.cnkuaishou.com, port: 27233, type: trojan, password: 98cedeca-99a0-11ef-bb64-f23c913c8d2b, sni: f9b0a348-sxlj40-t26kw1-1qaek.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|97, server: ff2f33a0-sxnds0-t1rmyc-gacy.cm5.cnkuaishou.com, port: 27233, type: trojan, password: 20f87b02-0eaa-11eb-8684-f23c913c8d2b, sni: ff2f33a0-sxnds0-t1rmyc-gacy.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|98, server: w52.pacemakere.com, port: 35002, type: trojan, password: 5a5f687803374fa5, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|150, server: 125.94.40.221, port: 39001, type: trojan, password: 85f133142f04dbf6547da33895cfabb3, sni: www.yrtok.com, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|162, server: 120.233.128.68, port: 39001, type: trojan, password: 85f133142f04dbf6547da33895cfabb3, sni: 120.233.128.68, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|168, server: sdjhv3hjubds733.nertron.xyz, port: 56113, type: ss, cipher: aes-256-gcm, password: cf44a1b7-6806-4412-aac9-5ceb838fb705}
+  - {name: 🇳🇱 |NL|@wxgqlfx|177, server: 45.144.54.33, port: 34803, type: ss, cipher: chacha20-ietf-poly1305, password: LiHQX9cDbdooBHlIg0eiqQ}
+  - {name: 🇨🇳 |CN|@wxgqlfx|188, server: 120.26.55.225, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|189, server: 47.116.166.178, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|190, server: 47.92.152.169, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|191, server: 120.210.205.59, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|192, server: 47.104.186.133, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|56, server: 120.233.44.201, port: 21179, type: trojan, password: 2b1ed981-6547-4094-998b-06a3323d6f6c, sni: k30.tudou211.com, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|87, server: 120.232.153.40, port: 31209, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|95, server: 183.236.51.38, port: 47921, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|96, server: f9b0a348-sxlj40-t26kw1-1qaek.cm5.cnkuaishou.com, port: 27233, type: trojan, password: 98cedeca-99a0-11ef-bb64-f23c913c8d2b, sni: f9b0a348-sxlj40-t26kw1-1qaek.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|97, server: ff2f33a0-sxnds0-t1rmyc-gacy.cm5.cnkuaishou.com, port: 27233, type: trojan, password: 20f87b02-0eaa-11eb-8684-f23c913c8d2b, sni: ff2f33a0-sxnds0-t1rmyc-gacy.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|98, server: w52.pacemakere.com, port: 35002, type: trojan, password: 5a5f687803374fa5, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|150, server: 125.94.40.221, port: 39001, type: trojan, password: 85f133142f04dbf6547da33895cfabb3, sni: www.yrtok.com, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|162, server: 120.233.128.68, port: 39001, type: trojan, password: 85f133142f04dbf6547da33895cfabb3, sni: 120.233.128.68, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|168, server: sdjhv3hjubds733.nertron.xyz, port: 56113, type: ss, cipher: aes-256-gcm, password: cf44a1b7-6806-4412-aac9-5ceb838fb705}
+  - {name: 🇳🇱 |NL|@wxgqlfx|177, server: 45.144.54.33, port: 34803, type: ss, cipher: chacha20-ietf-poly1305, password: LiHQX9cDbdooBHlIg0eiqQ}
+  - {name: 🇨🇳 |CN|@wxgqlfx|188, server: 120.26.55.225, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|189, server: 47.116.166.178, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|190, server: 47.92.152.169, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|191, server: 120.210.205.59, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 |CN|@wxgqlfx|192, server: 47.104.186.133, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇸🇬 直连新加坡-1, server: sg1.ctjsq.xyz, port: 19999, type: ss, cipher: chacha20-ietf-poly1305, password: 6feef5c3-92af-4354-91b0-6d9af9c4186c}
   - {name: 🇯🇵 直连日本-1, server: jp1.ctjsq.xyz, port: 19999, type: ss, cipher: chacha20-ietf-poly1305, password: 6feef5c3-92af-4354-91b0-6d9af9c4186c}
   - {name: 🇭🇰 直连香港-1, server: hk-1.ctjsq.xyz, port: 19999, type: ss, cipher: chacha20-ietf-poly1305, password: 6feef5c3-92af-4354-91b0-6d9af9c4186c}
