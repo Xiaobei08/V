@@ -53,7 +53,7 @@
   - {name: 2|🇺🇸95 |  3.1MB/s|46%|Openai, server: d529d80b-svqv40-t1bnjq-1krtb.los.gotochinatown.net, port: 443, type: socks5, skip-cert-verify: false}
   - {name: 2|🇺🇸97 |  2.2MB/s|14%|Openai, server: becc42e9-sw1z40-swy6li-tni2.sj.gotochinatown.net, port: 443, type: socks5, skip-cert-verify: false}
   - {name: 2|🇺🇸99 |  4.8MB/s|0%|Openai|Gemi..., server: fd6eeb0d-sw7j40-swy6li-tni2.sv.plebai.net, port: 443, type: socks5, skip-cert-verify: false}
-  - {name: "2,14|TW_speednode_0034", server: twmoon1-cdn-route.couldflare-cdn.com, port: 1443, type: http, username: mrwdfNTD8M79LCukCieldrqZWqs=, password: exaxgqkKkd0TAMrCxeonWg==, tls: true, skip-cert-verify: false}
+  - {name: "2,14|TW_speednode_0033", server: twmoon1-cdn-route.couldflare-cdn.com, port: 1443, type: http, username: mrwdfNTD8M79LCukCieldrqZWqs=, password: exaxgqkKkd0TAMrCxeonWg==, tls: true, skip-cert-verify: false}
   - {name: 2|🇺🇸101 |  1.6MB/s|14%|Openai, server: ccab48d1-swin40-swy6li-tni2.sj.gotochinatown.net, port: 443, type: socks5, skip-cert-verify: false}
   - {name: 2|🇺🇸102 |  1.1MB/s|14%|Openai, server: 0c755197-svhls0-t1bnjq-1krtb.sj.gotochinatown.net, port: 443, type: socks5, skip-cert-verify: false}
   - {name: 2|🇺🇸106 |  1.8MB/s|14%|Openai, server: fade97e9-swexs0-t1bnjq-1krtb.sj.gotochinatown.net, port: 443, type: socks5, skip-cert-verify: false}
@@ -93,13 +93,16 @@
   - {name: 🇭🇰 13|香港5|@ripaojiedian, server: 120.232.153.40, port: 31209, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇭🇰 13|香港7@ripaojiedian, server: 103.224.80.111, port: 29992, type: vmess, uuid: c3659582-a6e0-45c2-92ec-3b4d8b240e07, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇸🇬 13|新加坡2|@ripaojiedian, server: 183.236.51.38, port: 41024, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 14|IL_speednode_0025, server: 185.162.124.132, port: 8300, type: http, username: tqqlqvxj@mayorlogistic.com, password: 25d55ad283aa400af464c76d713c07ad, tls: true, skip-cert-verify: false}
-  - {name: 14|IT_speednode_0026, server: 185.47.172.230, port: 8200, type: http, username: tqqlqvxj@mayorlogistic.com, password: 25d55ad283aa400af464c76d713c07ad, tls: true, skip-cert-verify: false}
-  - {name: 14|JP_speednode_0027, server: 103.232.213.170, port: 4990, type: http, username: tqqlqvxj@mayorlogistic.com, password: 25d55ad283aa400af464c76d713c07ad, tls: true, skip-cert-verify: false}
-  - {name: 14|RU_speednode_0032, server: 194.87.197.196, port: 443, type: http, username: tqqlqvxj@mayorlogistic.com, password: 25d55ad283aa400af464c76d713c07ad, tls: true, skip-cert-verify: false}
-  - {name: 14|SE_speednode_0033, server: 103.45.246.184, port: 8300, type: http, username: tqqlqvxj@mayorlogistic.com, password: 25d55ad283aa400af464c76d713c07ad, tls: true, skip-cert-verify: false}
-  - {name: 14|US_speednode_0047, server: 146.71.78.145, port: 4999, type: http, username: tqqlqvxj@mayorlogistic.com, password: 25d55ad283aa400af464c76d713c07ad, tls: true, skip-cert-verify: false}
-  - {name: 14|US_speednode_0048, server: 66.55.65.54, port: 8330, type: http, username: tqqlqvxj@mayorlogistic.com, password: 25d55ad283aa400af464c76d713c07ad, tls: true, skip-cert-verify: false}
+  - {name: 14|CA_speednode_0002, server: 104.129.128.58, port: 8300, type: http, username: tqqlqvxj@mayorlogistic.com, password: 25d55ad283aa400af464c76d713c07ad, tls: true, skip-cert-verify: false}
+  - {name: 14|CN_speednode_0004, server: 91d19d2d-sxp8g0-tc5odo-1mh85.cm5.cnkuaishou.com, port: 27233, type: trojan, password: cf7331fa-bfeb-11ed-a807-f23c913c8d2b, sni: 91d19d2d-sxp8g0-tc5odo-1mh85.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 14|CN_speednode_0006, server: 3cb362d9-sxp8g0-t6g8gl-ch5c.cm5.cnkuaishou.com, port: 27233, type: trojan, password: 6e313598-a088-11ea-a22e-f23c91cfbbc9, sni: 3cb362d9-sxp8g0-t6g8gl-ch5c.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 14|CZ_speednode_0010, server: 194.87.108.40, port: 8300, type: http, username: tqqlqvxj@mayorlogistic.com, password: 25d55ad283aa400af464c76d713c07ad, tls: true, skip-cert-verify: false}
+  - {name: 14|ID_speednode_0017, server: 165.154.150.51, port: 8443, type: http, username: tqqlqvxj@mayorlogistic.com, password: 25d55ad283aa400af464c76d713c07ad, tls: true, skip-cert-verify: false}
+  - {name: 14|IL_speednode_0018, server: 45.143.5.60, port: 8300, type: http, username: tqqlqvxj@mayorlogistic.com, password: 25d55ad283aa400af464c76d713c07ad, tls: true, skip-cert-verify: false}
+  - {name: 14|SC_speednode_0028, server: 156.226.175.105, port: 8443, type: http, username: tqqlqvxj@mayorlogistic.com, password: 25d55ad283aa400af464c76d713c07ad, tls: true, skip-cert-verify: false}
+  - {name: 14|US_speednode_0062, server: 66.55.65.54, port: 8330, type: http, username: tqqlqvxj@mayorlogistic.com, password: 25d55ad283aa400af464c76d713c07ad, tls: true, skip-cert-verify: false}
+  - {name: 14|US_speednode_0065, server: 172.67.204.120, port: 443, type: trojan, password: 0bf83a1d-f785-487a-a479-3c3de2566ba6, sni: VV.890603.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /xJXdWGMbbZovkcaL2SsGTGxE, headers: {Host: VV.890603.xyZ}}}
+  - {name: 14|VN_speednode_0070, server: 42.119.60.199, port: 8300, type: http, username: tqqlqvxj@mayorlogistic.com, password: 25d55ad283aa400af464c76d713c07ad, tls: true, skip-cert-verify: false}
   - {name: 2|🇯🇵1 |  1.8MB/s|54%|Youtube|Ope..., server: sslvpn.51job.com, port: 1443, type: vmess, uuid: a6a0d901-67e9-460a-90b5-634c5c4f9782, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /634c5c4f9782, headers: {Host: centos7}}}
   - {name: 2|🌀3-SK |  5.0MB/s|0%|Youtube|Op..., server: 156.146.40.194, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: 2|🇸🇬1 |  1.0MB/s|0%|Netflix|Disn..., server: 183.236.51.38, port: 49291, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
@@ -133,3 +136,6 @@
   - {name: 🇭🇰 13|香港5|@ripaojiedian, server: 120.232.153.40, port: 31209, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇭🇰 13|香港7@ripaojiedian, server: 103.224.80.111, port: 29992, type: vmess, uuid: c3659582-a6e0-45c2-92ec-3b4d8b240e07, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇸🇬 13|新加坡2|@ripaojiedian, server: 183.236.51.38, port: 41024, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 14|CN_speednode_0004, server: 91d19d2d-sxp8g0-tc5odo-1mh85.cm5.cnkuaishou.com, port: 27233, type: trojan, password: cf7331fa-bfeb-11ed-a807-f23c913c8d2b, sni: 91d19d2d-sxp8g0-tc5odo-1mh85.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 14|CN_speednode_0006, server: 3cb362d9-sxp8g0-t6g8gl-ch5c.cm5.cnkuaishou.com, port: 27233, type: trojan, password: 6e313598-a088-11ea-a22e-f23c91cfbbc9, sni: 3cb362d9-sxp8g0-t6g8gl-ch5c.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 14|US_speednode_0065, server: 172.67.204.120, port: 443, type: trojan, password: 0bf83a1d-f785-487a-a479-3c3de2566ba6, sni: VV.890603.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /xJXdWGMbbZovkcaL2SsGTGxE, headers: {Host: VV.890603.xyZ}}}
