@@ -1,101 +1,61 @@
-  - {name: 电报群：https://t.me/vvkj11, server: 120.232.153.63, port: 37805, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇸🇬 每天更新，请加电报群防止失联, server: 120.232.153.40, port: 50152, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 日期：06-18, server: 120.198.71.219, port: 51095, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_1, server: 104.21.30.37, port: 80, type: vmess, uuid: 0f7070cd-c91d-4532-a51f-56da4f0e94be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /gbkQ0mhWbEUSLppj7jCmY}}
-  - {name: 🇺🇸 _美国_2, server: cloudgetservice.mcloudservice.site, port: 443, type: vmess, uuid: 5428dcc2-9950-4404-b8a5-9dac82acb210, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: cloudgetservice.mcloudservice.site}}}
-  - {name: 🇺🇸 _美国_3, server: FfFgTYY.7282728.XyZ, port: 80, type: vmess, uuid: 3d4ad187-b554-4300-bf71-d26c71962504, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NiNQyrcaIIJ3WqRcOEICAwmfH7, headers: {Host: FfFgTYY.7282728.XyZ}}}
-  - {name: 🇺🇸 _美国_4, server: FfFgTYY.7282728.XyZ, port: 80, type: vmess, uuid: 3d4ad187-b554-4300-bf71-d26c71962504, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NiNQyrcaIIJ3WqRcOEICAwmfH7, headers: {Host: FfFgTYY.7282728.XyZ}}}
-  - {name: 🇺🇸 _美国_5, server: 172.66.168.209, port: 443, type: vmess, uuid: 5428dcc2-9950-4404-b8a5-9dac82acb210, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws}}
-  - {name: 🇺🇸 _美国_6, server: cloudgetservice.mcloudservice.site, port: 443, type: vmess, uuid: 5428dcc2-9950-4404-b8a5-9dac82acb210, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: cloudgetservice.mcloudservice.site}}}
-  - {name: 🇺🇸 _美国_7, server: cloudgetservice.mcloudservice.site, port: 443, type: vmess, uuid: ad2bca4d-be9e-4ac2-b2ed-4c81abb4242f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: cloudgetservice.mcloudservice.site}}}
-  - {name: 🇺🇸 _美国_8, server: ip.sb, port: 443, type: vmess, uuid: c9ddb489-7b5e-49ed-8b21-749f4a0ed56d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /c9ddb489-7b5e-49ed-8b21-749f4a0ed56d-vmess, headers: {Host: ip.sb}}}
-  - {name: 🇨🇳 _中国_1, server: 183.236.51.38, port: 36519, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_9, server: cloudgetservice.mcloudservice.site, port: 443, type: vmess, uuid: ad2bca4d-be9e-4ac2-b2ed-4c81abb4242f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: cloudgetservice.mcloudservice.site}}}
-  - {name: 🇺🇸 _美国_10, server: 104.21.30.37, port: 80, type: vmess, uuid: 0f7070cd-c91d-4532-a51f-56da4f0e94be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /gbkQ0mhWbEUSLppj7jCmY}}
-  - {name: 🇺🇸 _美国_11, server: 172.67.200.13, port: 443, type: vmess, uuid: 5f726fe3-d82e-4da5-a711-8af0cbb2b682, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /azumase.ren}}
-  - {name: 🇺🇸 _美国_12, server: FfFgTYY.7282728.XyZ, port: 80, type: vmess, uuid: 3d4ad187-b554-4300-bf71-d26c71962504, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NiNQyrcaIIJ3WqRcOEICAwmfH7, headers: {Host: FfFgTYY.7282728.XyZ}}}
-  - {name: 🇺🇸 _美国_13, server: 104.18.149.76, port: 443, type: vmess, uuid: de94cc0a-0592-4969-b1fc-97ea8f0ea0b3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /aa}}
-  - {name: 🇨🇦 _加拿大_1, server: 51.79.102.253, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2}}
-  - {name: 🇺🇸 _美国_14, server: www.hdmoli.com, port: 80, type: vmess, uuid: 2f38f848-a899-4c87-9807-207a41615e3c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/rongseven?ed=2048", headers: {Host: www.hdmoli.com}}}
-  - {name: 🇨🇳 _中国_2, server: 183.236.51.38, port: 41302, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_3, server: 120.198.71.219, port: 51095, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_4, server: 183.238.90.8, port: 46920, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_15, server: 172.67.199.104, port: 80, type: vmess, uuid: 03e92910-34b1-4245-ac63-04a865f43cd5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NjLXrucxVIcvpHPhIJoo2wcE6Q}}
-  - {name: 🇺🇸 _美国_16, server: 104.21.84.242, port: 80, type: vmess, uuid: 03e92910-34b1-4245-ac63-04a865f43cd5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NjLXrucxVIcvpHPhIJoo2wcE6Q}}
-  - {name: 🇨🇳 _中国_5, server: 183.238.90.8, port: 39076, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_6, server: 183.236.51.38, port: 49554, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_7, server: 120.198.71.219, port: 30915, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_8, server: 120.198.71.216, port: 46159, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_9, server: 120.198.71.214, port: 41175, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: ️_未知_1, server: onecat-us.03ezhg0qsa.download, port: 25024, type: vmess, uuid: 1489b070-b44c-3d27-8282-3ee2f778c965, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_17, server: ParsVds.ir, port: 443, type: vmess, uuid: 76221bfb-e92f-4e80-81c5-6fe48f50ac0b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: ParsVds.ir}}}
-  - {name: 🇺🇸 _美国_18, server: www.vpslook.com, port: 443, type: vmess, uuid: 4993f14e-5f9b-4249-dc43-99f4fdea84be, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /4993f14e, headers: {Host: www.vpslook.com}}}
-  - {name: 🇺🇸 _美国_19, server: cf.fovi.tk, port: 443, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /eisasqa, headers: {Host: cf.fovi.tk}}}
-  - {name: 🇨🇳 _中国_10, server: 120.232.153.63, port: 37805, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_11, server: 120.198.71.219, port: 51095, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_12, server: 183.238.90.8, port: 46920, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_13, server: 183.238.90.8, port: 41766, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_14, server: 120.232.153.63, port: 37805, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_15, server: 120.198.71.219, port: 49355, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_16, server: 120.198.71.219, port: 49355, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_56, server: 104.21.24.195, port: 443, type: trojan, password: a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2, sni: RFgTHYu7.999836.Xyz, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_57, server: 104.25.254.4, port: 2087, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubdns.dpdns.org, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_18, server: 120.233.128.68, port: 39001, type: trojan, password: 85f133142f04dbf6547da33895cfabb3, sni: 120.233.128.68, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_19, server: 203.156.253.11, port: 39001, type: trojan, password: 85f133142f04dbf6547da33895cfabb3, sni: www.yrtok.com, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_20, server: 120.233.44.201, port: 21118, type: trojan, password: 2b1ed981-6547-4094-998b-06a3323d6f6c, sni: k17.tudou211.com, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_21, server: 120.233.44.201, port: 21003, type: trojan, password: 2b1ed981-6547-4094-998b-06a3323d6f6c, sni: k15.tudou211.com, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_22, server: 120.233.44.201, port: 21017, type: trojan, password: 2b1ed981-6547-4094-998b-06a3323d6f6c, sni: k16.tudou211.com, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_23, server: 120.233.44.201, port: 21056, type: trojan, password: 2b1ed981-6547-4094-998b-06a3323d6f6c, sni: k14.tudou211.com, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_24, server: 203.156.253.12, port: 39001, type: trojan, password: 85f133142f04dbf6547da33895cfabb3, sni: www.yrtok.com, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_58, server: 104.21.30.37, port: 80, type: vmess, uuid: 0f7070cd-c91d-4532-a51f-56da4f0e94be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /gbkQ0mhWbEUSLppj7jCmY}}
-  - {name: 🇺🇸 _美国_59, server: cloudgetservice.mcloudservice.site, port: 443, type: vmess, uuid: 5428dcc2-9950-4404-b8a5-9dac82acb210, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: cloudgetservice.mcloudservice.site}}}
-  - {name: 🇺🇸 _美国_60, server: FfFgTYY.7282728.XyZ, port: 80, type: vmess, uuid: 3d4ad187-b554-4300-bf71-d26c71962504, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NiNQyrcaIIJ3WqRcOEICAwmfH7, headers: {Host: FfFgTYY.7282728.XyZ}}}
-  - {name: 🇺🇸 _美国_61, server: FfFgTYY.7282728.XyZ, port: 80, type: vmess, uuid: 3d4ad187-b554-4300-bf71-d26c71962504, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NiNQyrcaIIJ3WqRcOEICAwmfH7, headers: {Host: FfFgTYY.7282728.XyZ}}}
-  - {name: 🇺🇸 _美国_62, server: 172.66.168.209, port: 443, type: vmess, uuid: 5428dcc2-9950-4404-b8a5-9dac82acb210, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws}}
-  - {name: 🇺🇸 _美国_63, server: cloudgetservice.mcloudservice.site, port: 443, type: vmess, uuid: 5428dcc2-9950-4404-b8a5-9dac82acb210, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: cloudgetservice.mcloudservice.site}}}
-  - {name: 🇺🇸 _美国_64, server: cloudgetservice.mcloudservice.site, port: 443, type: vmess, uuid: ad2bca4d-be9e-4ac2-b2ed-4c81abb4242f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: cloudgetservice.mcloudservice.site}}}
-  - {name: 🇺🇸 _美国_65, server: ip.sb, port: 443, type: vmess, uuid: c9ddb489-7b5e-49ed-8b21-749f4a0ed56d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /c9ddb489-7b5e-49ed-8b21-749f4a0ed56d-vmess, headers: {Host: ip.sb}}}
-  - {name: 🇨🇳 _中国_25, server: 183.236.51.38, port: 36519, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_66, server: cloudgetservice.mcloudservice.site, port: 443, type: vmess, uuid: ad2bca4d-be9e-4ac2-b2ed-4c81abb4242f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: cloudgetservice.mcloudservice.site}}}
-  - {name: 🇺🇸 _美国_67, server: 104.21.30.37, port: 80, type: vmess, uuid: 0f7070cd-c91d-4532-a51f-56da4f0e94be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /gbkQ0mhWbEUSLppj7jCmY}}
-  - {name: 🇺🇸 _美国_68, server: 172.67.200.13, port: 443, type: vmess, uuid: 5f726fe3-d82e-4da5-a711-8af0cbb2b682, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /azumase.ren}}
-  - {name: 🇺🇸 _美国_69, server: FfFgTYY.7282728.XyZ, port: 80, type: vmess, uuid: 3d4ad187-b554-4300-bf71-d26c71962504, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NiNQyrcaIIJ3WqRcOEICAwmfH7, headers: {Host: FfFgTYY.7282728.XyZ}}}
-  - {name: 🇺🇸 _美国_70, server: 104.18.149.76, port: 443, type: vmess, uuid: de94cc0a-0592-4969-b1fc-97ea8f0ea0b3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /aa}}
-  - {name: 🇨🇦 _加拿大_3, server: 51.79.102.253, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2}}
-  - {name: 🇺🇸 _美国_71, server: www.hdmoli.com, port: 80, type: vmess, uuid: 2f38f848-a899-4c87-9807-207a41615e3c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/rongseven?ed=2048", headers: {Host: www.hdmoli.com}}}
-  - {name: 🇨🇳 _中国_26, server: 183.236.51.38, port: 41302, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_27, server: 120.198.71.219, port: 51095, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_28, server: 183.238.90.8, port: 46920, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_72, server: 172.67.199.104, port: 80, type: vmess, uuid: 03e92910-34b1-4245-ac63-04a865f43cd5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NjLXrucxVIcvpHPhIJoo2wcE6Q}}
-  - {name: 🇺🇸 _美国_73, server: 104.21.84.242, port: 80, type: vmess, uuid: 03e92910-34b1-4245-ac63-04a865f43cd5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NjLXrucxVIcvpHPhIJoo2wcE6Q}}
-  - {name: 🇨🇳 _中国_29, server: 183.238.90.8, port: 39076, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_30, server: 183.236.51.38, port: 49554, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_31, server: 120.198.71.219, port: 30915, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_32, server: 120.198.71.216, port: 46159, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_33, server: 120.198.71.214, port: 41175, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: ️_未知_3, server: onecat-us.03ezhg0qsa.download, port: 25024, type: vmess, uuid: 1489b070-b44c-3d27-8282-3ee2f778c965, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_74, server: ParsVds.ir, port: 443, type: vmess, uuid: 76221bfb-e92f-4e80-81c5-6fe48f50ac0b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkws, headers: {Host: ParsVds.ir}}}
-  - {name: 🇺🇸 _美国_75, server: www.vpslook.com, port: 443, type: vmess, uuid: 4993f14e-5f9b-4249-dc43-99f4fdea84be, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /4993f14e, headers: {Host: www.vpslook.com}}}
-  - {name: 🇺🇸 _美国_76, server: cf.fovi.tk, port: 443, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /eisasqa, headers: {Host: cf.fovi.tk}}}
-  - {name: 🇨🇳 _中国_34, server: 120.232.153.63, port: 37805, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_35, server: 120.198.71.219, port: 51095, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_36, server: 183.238.90.8, port: 46920, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_37, server: 183.238.90.8, port: 41766, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_38, server: 120.232.153.63, port: 37805, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_39, server: 120.198.71.219, port: 49355, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_40, server: 120.198.71.219, port: 49355, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_113, server: 104.21.24.195, port: 443, type: trojan, password: a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2, sni: RFgTHYu7.999836.Xyz, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_114, server: 104.25.254.4, port: 2087, type: trojan, password: d6b8011a-c725-435a-9fec-bf6d3530392c, sni: vle.amclubdns.dpdns.org, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_42, server: 120.233.128.68, port: 39001, type: trojan, password: 85f133142f04dbf6547da33895cfabb3, sni: 120.233.128.68, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_43, server: 203.156.253.11, port: 39001, type: trojan, password: 85f133142f04dbf6547da33895cfabb3, sni: www.yrtok.com, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_44, server: 120.233.44.201, port: 21118, type: trojan, password: 2b1ed981-6547-4094-998b-06a3323d6f6c, sni: k17.tudou211.com, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_45, server: 120.233.44.201, port: 21003, type: trojan, password: 2b1ed981-6547-4094-998b-06a3323d6f6c, sni: k15.tudou211.com, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_46, server: 120.233.44.201, port: 21017, type: trojan, password: 2b1ed981-6547-4094-998b-06a3323d6f6c, sni: k16.tudou211.com, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_47, server: 120.233.44.201, port: 21056, type: trojan, password: 2b1ed981-6547-4094-998b-06a3323d6f6c, sni: k14.tudou211.com, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_48, server: 203.156.253.12, port: 39001, type: trojan, password: 85f133142f04dbf6547da33895cfabb3, sni: www.yrtok.com, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_49, server: v29.heduian.link, port: 30829, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: v29.heduian.link}}}
-  - {name: 🇨🇳 _中国_50, server: v28.heduian.link, port: 30828, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: v28.heduian.link}}}
-  - {name: 🇨🇳 _中国_51, server: 120.233.44.201, port: 21102, type: trojan, password: 2b1ed981-6547-4094-998b-06a3323d6f6c, sni: k28.tudou211.com, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_52, server: v35.heduian.link, port: 30835, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: v35.heduian.link}}}
-  - {name: 🇨🇳 _中国_53, server: v7.heduian.link, port: 30807, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: v7.heduian.link}}}
-  - {name: 🇨🇳 _中国_54, server: v25.heduian.link, port: 30825, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: v25.heduian.link}}}
+  - {name: 电报群：https://t.me/vvkj11, server: 140.83.57.114, port: 25965, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇸🇬 每天更新，请加电报群防止失联, server: 168.138.171.70, port: 23280, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 日期：06-19, server: 83242d49-sy41s0-szh3gf-ggww.cm5.cnkuaishou.com, port: 21233, type: trojan, password: bcc58e88-e147-11ec-b286-f23c91cfbbc9, sni: 83242d49-sy41s0-szh3gf-ggww.cm5.cnkuaishou.com, skip-cert-verify: false}
+  - {name: 免费VPN：https://tt.vg/gwaAy, server: 138.2.74.219, port: 28616, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇺🇸 _美国_1, server: 138.2.39.24, port: 443, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_1, server: 120.232.153.40, port: 50152, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇭 _瑞士, server: 64.110.101.90, port: 55007, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇷🇺 _俄罗斯, server: 91.192.81.154, port: 8443, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇯🇵 _日本_1, server: 150.66.0.85, port: 443, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇺🇸 _美国_2, server: 138.2.59.96, port: 10129, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇰🇷 _韩国_1, server: 14.46.110.161, port: 30074, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇰🇷 _韩国_2, server: 121.167.145.40, port: 10843, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇦🇺 _澳大利亚_1, server: 140.83.57.20, port: 13118, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇺🇸 _美国_3, server: 158.178.243.152, port: 61731, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇺🇸 _美国_4, server: 138.2.32.76, port: 15821, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇧🇷 _巴西_1, server: 168.138.184.142, port: 19191, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_2, server: 203.156.253.12, port: 39001, type: trojan, password: 85f133142f04dbf6547da33895cfabb3, sni: www.yrtok.com, skip-cert-verify: false}
+  - {name: 🇺🇸 _美国_5, server: 146.235.18.248, port: 45137, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_3, server: 120.233.128.68, port: 39001, type: trojan, password: 85f133142f04dbf6547da33895cfabb3, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_4, server: 8.222.243.73, port: 26385, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇯🇵 _日本_2, server: 160.22.79.166, port: 443, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇺🇸 _美国_6, server: 138.2.75.219, port: 39341, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇰🇷 _韩国_3, server: 121.167.145.40, port: 25156, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇬🇧 _英国_1, server: 213.35.125.129, port: 6434, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇯🇵 _日本_3, server: 160.22.79.179, port: 443, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇰🇷 _韩国_4, server: 222.103.185.193, port: 50586, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇸🇪 _瑞典_1, server: 217.142.236.93, port: 443, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇺🇸 _美国_7, server: 158.178.236.14, port: 61731, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇸🇬 _新加坡, server: 164.52.2.98, port: 443, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇹🇭 _泰国, server: 171.103.232.58, port: 20475, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇬🇧 _英国_2, server: 83.142.30.4, port: 2096, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇺🇸 _美国_8, server: 138.2.91.98, port: 9711, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇺🇸 _美国_9, server: 65.20.74.136, port: 2053, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇰🇷 _韩国_5, server: 203.243.63.166, port: 27249, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇰🇷 _韩国_6, server: 210.103.86.17, port: 21770, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇧🇷 _巴西_2, server: 168.138.181.208, port: 443, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇰🇷 _韩国_7, server: 119.56.175.56, port: 12763, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇰🇷 _韩国_8, server: 14.46.130.32, port: 30061, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_5, server: 120.198.71.214, port: 31180, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_6, server: 116.31.75.150, port: 39001, type: trojan, password: 85f133142f04dbf6547da33895cfabb3, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_7, server: 183.236.51.38, port: 41302, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇰🇷 _韩国_9, server: 193.123.247.125, port: 50576, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇰🇷 _韩国_10, server: 112.155.173.72, port: 30069, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇬🇧 _英国_3, server: 83.142.30.5, port: 2096, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇰🇷 _韩国_11, server: 59.15.182.92, port: 30017, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇯🇵 _日本_4, server: 146.56.107.41, port: 27306, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇰🇷 _韩国_12, server: 59.2.114.243, port: 22122, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇰🇷 _韩国_13, server: 116.47.199.34, port: 50000, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇦🇺 _澳大利亚_2, server: 129.154.48.176, port: 36355, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇺🇸 _美国_10, server: 148.113.43.228, port: 2053, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_8, server: 183.236.51.38, port: 36519, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇬🇧 _英国_4, server: 144.24.87.69, port: 50001, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇸🇪 _瑞典_2, server: 141.147.144.15, port: 13357, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇰🇷 _韩国_14, server: 59.11.31.107, port: 11815, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇺🇸 _美国_11, server: 138.2.49.197, port: 587, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇺🇸 _美国_12, server: 148.113.43.228, port: 8443, type: trojan, password: ttfang, sni: ttfang.fange.me, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_11, server: 120.233.44.201, port: 21102, type: trojan, password: 2b1ed981-6547-4094-998b-06a3323d6f6c, sni: k28.tudou211.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_12, server: 120.26.55.225, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_14, server: v29.heduian.link, port: 30829, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: v29.heduian.link}}}
+  - {name: 🇧🇪 _比利时, server: 57.128.198.152, port: 80, type: vmess, uuid: 7881f906-8170-4aca-b971-302be7f65b66, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}}
+  - {name: 🇨🇳 _中国_15, server: v25.heduian.link, port: 30825, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: v25.heduian.link}}}

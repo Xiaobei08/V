@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `9592`
+merge nodes w/o dup: `9680`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -555,14 +555,14 @@ merge nodes w/o dup: `9592`
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe), number of nodes: `18`
 - [wrfree/free](https://github.com/wrfree/free), number of nodes: `51`
 - [anaer/Sub](https://github.com/anaer/Sub), number of nodes: `45`
-- [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree), number of nodes: `47`
-- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), number of nodes: `13`
+- [aiboboxx/v2rayfree](https://github.com/aiboboxx/v2rayfree), number of nodes: `75`
+- [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), number of nodes: `16`
 - [misersun/config003-002](https://github.com/misersun/config003), number of nodes: `217`
-- [mfuu/v2ray](https://github.com/mfuu/v2ray), number of nodes: `345`
+- [mfuu/v2ray](https://github.com/mfuu/v2ray), number of nodes: `319`
 - [freefq/free](https://github.com/freefq/free), number of nodes: `14`
 - [xiyaowong/freeFQ](https://github.com/xiyaowong/freeFQ), number of nodes: `156`
 - [YasserDivaR/pr0xy](https://github.com/YasserDivaR/pr0xy), number of nodes: `621`
-- [mahdibland/get_v2](https://github.com/mahdibland/get_v2), number of nodes: `2516`
+- [mahdibland/get_v2](https://github.com/mahdibland/get_v2), number of nodes: `2416`
 - [jikelonglie/meskell](https://github.com/jikelonglie/meskell), number of nodes: `9`
 - [freebaipiao/freebaipiao](https://github.com/freebaipiao/freebaipiao), number of nodes: `6`
 - [huwo1/proxy_nodes](https://bitbucket.org/huwo1/proxy_nodes/src/main), number of nodes: `183`
@@ -572,24 +572,24 @@ merge nodes w/o dup: `9592`
 - [Lewis-1217/FreeNodes](https://github.com/Lewis-1217/FreeNodes), number of nodes: `39`
 - [jiang.netlify.app](https://jiang.netlify.app), number of nodes: `63`
 - [learnhard-cn/free_proxy_ss](https://github.com/learnhard-cn/free_proxy_ss), number of nodes: `116`
-- [SnapdragonLee/SystemProxy](https://github.com/SnapdragonLee/SystemProxy), number of nodes: `522`
+- [SnapdragonLee/SystemProxy](https://github.com/SnapdragonLee/SystemProxy), number of nodes: `559`
 - [hermanb001/ProxyTest](https://github.com/hermanb001/ProxyTest), number of nodes: `1743`
 - [mahdibland/vpn.fail](https://github.com/mahdibland/get_v2), number of nodes: `999`
 - [LonUp/NodeList](https://github.com/LonUp/NodeList), number of nodes: `1451`
-- [Xiaobei08/V](https://github.com/Xiaobei08/V), number of nodes: `9333`
-- [wxgqlfx](https://t.me/wxgqlfx), number of nodes: `680`
-- [vxiaov/free_proxies](https://github.com/vxiaov/free_proxies), number of nodes: `36`
-- [snakem982/proxypool](https://github.com/snakem982/proxypool), number of nodes: `8`
-- [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes), number of nodes: `38`
+- [Xiaobei08/V](https://github.com/Xiaobei08/V), number of nodes: `9592`
+- [wxgqlfx](https://t.me/wxgqlfx), number of nodes: `627`
+- [vxiaov/free_proxies](https://github.com/vxiaov/free_proxies), number of nodes: `26`
+- [snakem982/proxypool](https://github.com/snakem982/proxypool), number of nodes: `42`
+- [chengaopan/AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes), number of nodes: `66`
 - [go4sharing/sub](https://github.com/go4sharing/sub), number of nodes: `62`
-- [Ruk1ng001/freeSub](https://github.com/Ruk1ng001/freeSub), number of nodes: `169`
-- [zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro), number of nodes: `8`
+- [Ruk1ng001/freeSub](https://github.com/Ruk1ng001/freeSub), number of nodes: `136`
+- [zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro), number of nodes: `42`
 - [mgit0001/test_clash](https://github.com/mgit0001/test_clash), number of nodes: `25`
 - [ripaojiedian/freenode](https://github.com/ripaojiedian/freenode), number of nodes: `21`
 - [shahidbhutta/Clash](https://github.com/shahidbhutta/Clash), number of nodes: `1`
-- [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), number of nodes: `138`
+- [peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), number of nodes: `194`
 - [anaer/Sub](https://github.com/anaer/Sub), number of nodes: `45`
-- [free18/v2ray](https://github.com/free18/v2ray), number of nodes: `101`
+- [free18/v2ray](https://github.com/free18/v2ray), number of nodes: `61`
 - [mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), number of nodes: `117`
 
 ## Softwares
