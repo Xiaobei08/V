@@ -1,3 +1,2 @@
-  - {name: TW_7aa1c_0133, server: twmoon1-cdn-route.couldflare-cdn.com, port: 1443, type: http, username: mrwdfNTD8M79LCukCieldrqZWqs=, password: exaxgqkKkd0TAMrCxeonWg==, tls: true, skip-cert-verify: false}
-  - {name: US_7aa1c_0228, server: 172.66.46.221, port: 443, type: trojan, password: juzi, sni: juzi8186-sr1.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: juzi8186-sr1.pages.dev}}}
-  - {name: US_7aa1c_0230, server: 172.66.45.35, port: 443, type: trojan, password: juzi, sni: juzi8186-sr1.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: juzi8186-sr1.pages.dev}}}
+  - {name: US_7606a_0215, server: 172.66.46.221, port: 443, type: trojan, password: juzi, sni: juzi8186-sr1.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: juzi8186-sr1.pages.dev}}}
+  - {name: US_7606a_0217, server: 172.66.45.35, port: 443, type: trojan, password: juzi, sni: juzi8186-sr1.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: juzi8186-sr1.pages.dev}}}
