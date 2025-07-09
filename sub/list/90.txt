@@ -95,11 +95,10 @@
   - {name: 🇺🇸 美国4|@ripaojiedian, server: 36.151.251.60, port: 30495, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, skip-cert-verify: false}
   - {name: 🇻🇳 越南|@ripaojiedian, server: 103.163.218.2, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: 🇺🇸 美国4|@ripaojiedian 2, server: 36.151.251.60, port: 30495, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: false}
-  - {name: AM_speednode_0001, server: 188.164.159.214, port: 2083, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: epmk.ambercc.filegear-sg.me}}}
-  - {name: ES_speednode_0023, server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: store.timimi.dpdns.org}}}
-  - {name: KZ_speednode_0109, server: 31.43.179.27, port: 443, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: epmk.ambercc.filegear-sg.me}}}
-  - {name: RU_speednode_0141, server: 46.254.93.243, port: 8443, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: epmk.ambercc.filegear-sg.me}}}
-  - {name: US_speednode_0183, server: 199.34.228.50, port: 2053, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: epml.ambercc.filegear-sg.me}}}
+  - {name: CN_speednode_0016, server: 183.240.179.89, port: 31253, type: trojan, password: fceba144-0aa0-11ee-bf3c-f23c9164ca5d, skip-cert-verify: false}
+  - {name: CN_speednode_0019, server: 183.240.179.89, port: 31253, type: trojan, password: 4eedcde6-d16a-11ef-973a-f23c913c8d2b, skip-cert-verify: false}
+  - {name: CN_speednode_0027, server: 183.240.179.89, port: 32233, type: trojan, password: d6e1207c-f41a-11ef-9495-f23c91cfbbc9, skip-cert-verify: false}
+  - {name: CN_speednode_0031, server: 183.240.179.89, port: 31263, type: trojan, password: fceba144-0aa0-11ee-bf3c-f23c9164ca5d, skip-cert-verify: false}
   - {name: 1 |  1.8MB/s|54%|Youtube|Ope..., server: sslvpn.51job.com, port: 1443, type: vmess, uuid: a6a0d901-67e9-460a-90b5-634c5c4f9782, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /634c5c4f9782, headers: {Host: centos7}}}
   - {name: 3-SK |  5.0MB/s|0%|Youtube|Op..., server: 156.146.40.194, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: 1 |  1.0MB/s|0%|Netflix|Disn..., server: 183.236.51.38, port: 49291, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
@@ -135,8 +134,7 @@
   - {name: 🇺🇸 美国4|@ripaojiedian, server: 36.151.251.60, port: 30495, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, skip-cert-verify: false}
   - {name: 🇻🇳 越南|@ripaojiedian, server: 103.163.218.2, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
   - {name: 🇺🇸 美国4|@ripaojiedian 2, server: 36.151.251.60, port: 30495, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: false}
-  - {name: AM_speednode_0001, server: 188.164.159.214, port: 2083, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: epmk.ambercc.filegear-sg.me}}}
-  - {name: ES_speednode_0023, server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: store.timimi.dpdns.org}}}
-  - {name: KZ_speednode_0109, server: 31.43.179.27, port: 443, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: epmk.ambercc.filegear-sg.me}}}
-  - {name: RU_speednode_0141, server: 46.254.93.243, port: 8443, type: trojan, password: Aimer, sni: epmk.ambercc.filegear-sg.me, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: epmk.ambercc.filegear-sg.me}}}
-  - {name: US_speednode_0183, server: 199.34.228.50, port: 2053, type: trojan, password: Aimer, sni: epml.ambercc.filegear-sg.me, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: epml.ambercc.filegear-sg.me}}}
+  - {name: CN_speednode_0016, server: 183.240.179.89, port: 31253, type: trojan, password: fceba144-0aa0-11ee-bf3c-f23c9164ca5d, skip-cert-verify: false}
+  - {name: CN_speednode_0019, server: 183.240.179.89, port: 31253, type: trojan, password: 4eedcde6-d16a-11ef-973a-f23c913c8d2b, skip-cert-verify: false}
+  - {name: CN_speednode_0027, server: 183.240.179.89, port: 32233, type: trojan, password: d6e1207c-f41a-11ef-9495-f23c91cfbbc9, skip-cert-verify: false}
+  - {name: CN_speednode_0031, server: 183.240.179.89, port: 31263, type: trojan, password: fceba144-0aa0-11ee-bf3c-f23c9164ca5d, skip-cert-verify: false}
