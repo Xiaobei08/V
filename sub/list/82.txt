@@ -1,2 +1,2 @@
-  - {name: AT_52d0c_0004, server: customers.tele-shop-too.studio, port: 33203, type: vmess, uuid: d522ec3b-24e4-4313-9abd-6719604b7761, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: HK_52d0c_0061, server: 43.226.17.8, port: 636, type: ss, cipher: aes-256-gcm, password: 1ad90a422096, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: kr6v1.dashengjs.net, path: /jwuctcuhriiw, tls: true, mux: true, skip-cert-verify: false}}
+  - {name: AT_f5be1_0004, server: customers.tele-shop-too.studio, port: 33203, type: vmess, uuid: d522ec3b-24e4-4313-9abd-6719604b7761, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: HK_f5be1_0061, server: 43.226.17.8, port: 636, type: ss, cipher: aes-256-gcm, password: 1ad90a422096, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: kr6v1.dashengjs.net, path: /jwuctcuhriiw, tls: true, mux: true, skip-cert-verify: false}}
