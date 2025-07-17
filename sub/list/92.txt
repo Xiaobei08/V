@@ -1,42 +1,10 @@
-  - {name: 电报群：https://t.me/vvkj11, server: 104.17.71.31, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇸🇬 每天更新，请加电报群防止失联, server: 104.17.128.1, port: 2096, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 日期：07-16, server: 104.17.68.85, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 免费VPN：https://tt.vg/gwaAy, server: 172.67.243.218, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_1, server: 104.17.68.85, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_2, server: nikon.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_3, server: ip.sb, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_4, server: 104.17.71.31, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_5, server: shopify.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_6, server: wilson.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_7, server: shopify.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_8, server: nikon.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_9, server: sullivan.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_10, server: otto.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_11, server: icook.tw, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_12, server: wilson.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_13, server: 172.67.110.232, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_14, server: 162.159.129.67, port: 8443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_15, server: 162.159.36.104, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_16, server: ip.sb, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_17, server: 172.67.110.232, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: ️_未知_1, server: 103.160.204.59, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_18, server: otto.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: ️_未知_2, server: 103.160.204.59, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_19, server: bowen.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_20, server: 162.159.129.67, port: 8443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_21, server: whatismyipaddress.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_22, server: www.ddwhm.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_23, server: 104.17.128.1, port: 2096, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_24, server: bowen.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_25, server: www.ddwhm.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_26, server: 162.159.36.104, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_27, server: sullivan.ns.cloudflare.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_28, server: whatismyipaddress.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_29, server: icook.tw, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇺🇸 _美国_30, server: 172.67.243.218, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
-  - {name: 🇨🇳 _中国_3, server: v37.heduian.link, port: 30837, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: v37.heduian.link}}}
-  - {name: 🇨🇳 _中国_4, server: v24.heduian.link, port: 30824, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: v24.heduian.link}}}
-  - {name: 🇦🇺 _澳大利亚_1, server: 43.198.75.24, port: 443, type: vmess, uuid: 68211580-b263-4e1f-9861-8123a577dd94, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /cache}}
-  - {name: 🇦🇺 _澳大利亚_2, server: 43.212.99.236, port: 443, type: vmess, uuid: 68211580-b263-4e1f-9861-8123a577dd94, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /cache}}
-  - {name: 🇺🇸 _美国_136, server: 47.129.121.211, port: 443, type: vmess, uuid: 68211580-b263-4e1f-9861-8123a577dd94, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /cache}}
-  - {name: 🇯🇵 _日本_3, server: 52.192.151.170, port: 443, type: vmess, uuid: 68211580-b263-4e1f-9861-8123a577dd94, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /cache}}
+  - {name: 电报群：https://t.me/vvkj11, server: whatismyipaddress.com, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: cc.ylka.dpdns.org, skip-cert-verify: false}
+  - {name: 🇸🇬 每天更新，请加电报群防止失联, server: zoomgov.vipren.biz.id, port: 443, type: trojan, password: 2d46956c-f6f4-4e17-9599-76e8b49e0d2e, sni: zoomgov.vipren.biz.id, skip-cert-verify: false}
+  - {name: 日期：07-16, server: ip.sb, port: 443, type: trojan, password: 06e4425e-a8cb-4b63-929f-2105604ab0a9, sni: ss.ylka.dpdns.org, skip-cert-verify: false}
+  - {name: 免费VPN：https://tt.vg/gwaAy, server: 36.151.251.48, port: 13855, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_1, server: 36.151.251.48, port: 13855, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_2, server: 36.151.251.48, port: 13855, type: trojan, password: d0d08cddacc3190ea81b1b792e1b5fde, sni: www.baidu.com, skip-cert-verify: false}
+  - {name: 🇧🇪 _比利时, server: 155.117.228.70, port: 26193, type: trojan, password: 7367d04e-4c59-4dff-a50e-12e730a09891, sni: 155.117.228.70, skip-cert-verify: false}
+  - {name: 🇨🇳 _中国_3, server: v5.heduian.link, port: 30805, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: v5.heduian.link}}}
+  - {name: 🇨🇳 _中国_4, server: v8.heduian.link, port: 30808, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: v8.heduian.link}}}
+  - {name: 🇨🇳 _中国_5, server: v8.heduian.link, port: 30808, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /oooo, headers: {Host: v8.heduian.link}}}
